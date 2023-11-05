@@ -3,6 +3,7 @@ Car Reservation Tests
 The goal of this project is to verify that the car reservation process performs as expected and that its various features, such as date selection, pick-up location, car class, insurance options, payment methods, and contact information, are all functioning correctly.
 
 Tests executed in project:
+
 Test Case 1: Reservation without account - reservation period is too long 
 Test Case 2: Reservation without account - required pick-up field is empty 
 Test Case 3: Reservation without account - reservation period is too short 
