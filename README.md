@@ -9,5 +9,5 @@ The goal of this project is to verify that the car reservation process performs 
 - Test Case 3: Reservation without account - reservation period is too short
 - Test Case 4: Reservation without account - no selected insurance option
 - Test Case 5: Reservation without account - no selected payment method option
-- Test Case 6: Reservation without account - Choosing a later date and then an earlier date on the calendar results in the second click becoming the pick-up date of the car, and the first one becoming the return date
-- Test Case 7: Reservation without account - Valid data.
+- Test Case 6: Reservation without account - choosing a later date and then an earlier date on the calendar results in the second click becoming the pick-up date of the car, and the first one becoming the return date
+- Test Case 7: Reservation without account - valid data.
